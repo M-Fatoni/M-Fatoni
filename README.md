@@ -29,9 +29,12 @@ I'm Muhammad Fatoni! I'm aspiring to become a data professional, and I'm all abo
 - Conducted Annual Product Category Quality Analysis.
 - Conducted Analysis of Annual Payment Type Usage.
 
-### [Other Projects](https://github.com/your-username/other-project)
-- Brief description of other projects.
+### [Investigate Hotel Business Using Data Visualization](https://github.com/M-Fatoni/Mini-Project-Investigate-Business-Hotel-using-Data-Visualization)
+- Conducted Monthly Hotel Booking Analysis Based on Hotel Type.
+- Conducted Impact Analysis of Stay Duration on Hotel Bookings Cancellation Rates.
+- Conducted Impact Analysis of Lead Time on Hotel Bookings Cancellation Rate.
 
+  
 Feel free to connect with me for any collaboration or discussion on data-driven projects!
 
-[![LinkedIn](https://www.linkedin.com/in/muhammad-fatoni-mfatoni/)
+[LinkedIn](https://www.linkedin.com/in/muhammad-fatoni-mfatoni/)
