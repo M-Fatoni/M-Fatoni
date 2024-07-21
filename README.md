@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**M-Fatoni/M-Fatoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Muhammad Fatoni! I'm aspiring to become a data professional, and I'm all about that hustle to keep learning and growing in the data game. I'm diving into the world of data analysis, data science, and data engineering. My formal education in Information Systems has provided a solid foundation, and I'm continuously expanding my knowledge and skills.
 
-Here are some ideas to get you started:
+## ✅ Competencies
+- Data Preparation
+- Data Analysis
+- Statistical Analysis
+- Data Visualization
+- Machine Learning
+- Natural Language Processing
+- ETL/ELT
+- RDBMS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- **Programming Languages:** Python, R, SQL
+- **SQL Databases:** MySQL, PostgreSQL
+- **Big Data Tools:** Looker Data Studio, Tableau
+- **Others:** Streamlit
+
+## 📂 Project Portfolio
+### [Loan Prediction Project](https://github.com/M-Fatoni/LoanPrediction)
+- Increased return rate to 97%.
+- Identified significant factors such as regional and social status that impact credit risk.
+
+### [Analyzing eCommerce Business Performance with SQL](https://github.com/M-Fatoni/Mini-Project---Analyzing-eCommerce-Business-Performance-with-SQL)
+- Designed an ERD for database structure.
+- Conducted Annual Customer Activity Growth Analysis.
+- Conducted Annual Product Category Quality Analysis.
+- Conducted Analysis of Annual Payment Type Usage.
+
+### [Other Projects](https://github.com/your-username/other-project)
+- Brief description of other projects.
+
+Feel free to connect with me for any collaboration or discussion on data-driven projects!
+
+[![LinkedIn](https://www.linkedin.com/in/muhammad-fatoni-mfatoni/)
