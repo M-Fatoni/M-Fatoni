@@ -37,6 +37,13 @@ I'm Muhammad Fatoni! I'm aspiring to become a data professional, and I'm all abo
 ### 📈 [Predict Customer Personality to Boost Marketing Campaign by Using Machine Learning](https://github.com/M-Fatoni/Predict-Customer-Personality-to-boost-marketing-campaign-by-using-Machine-Learning)
 - Improved targeting and personalization of marketing campaigns, leading to higher engagement and conversion rates.
 - Enhanced campaign performance and customer satisfaction through personalized marketing efforts.
+
+### [image](https://github.com/user-attachments/assets/e499f69d-b2be-4083-ba24-d0294626d0d4) [Predict Clicked Ads Customer Classification by Using Machine Learning](https://github.com/M-Fatoni/Predict-Clicked-Ads-Customer-Classification-by-using-Machine-Learning)
+- Conducted detailed segmentation of customers based on demographics, interests, and behavior patterns to identify key groups most likely to engage with ads.
+- Analyzed customer behavior data to uncover patterns and trends that influence ad-clicking behavior.
+- Developed and trained various machine learning models including Logistic Regression, Decision Trees, Random Forest, Ada Boost, Naive Bayes, SVM, and K-Nearest Neighbors to predict ad clicks.
+- Provided data-driven recommendations to optimize ad targeting strategies based on model insights.
+- Simulated the impact of different ad targeting strategies to predict potential outcomes and ROI.
     
 Feel free to connect with me for any collaboration or discussion on data-driven projects!
 
