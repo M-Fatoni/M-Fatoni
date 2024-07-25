@@ -38,7 +38,7 @@ I'm Muhammad Fatoni! I'm aspiring to become a data professional, and I'm all abo
 - Improved targeting and personalization of marketing campaigns, leading to higher engagement and conversion rates.
 - Enhanced campaign performance and customer satisfaction through personalized marketing efforts.
 
-### 🖱 ![img 1](https://img.icons8.com/?size=100&id=60Ql8od5mC50&format=png&color=000000) [Predict Clicked Ads Customer Classification by Using Machine Learning](https://github.com/M-Fatoni/Predict-Clicked-Ads-Customer-Classification-by-using-Machine-Learning)
+### 🖱 [Predict Clicked Ads Customer Classification by Using Machine Learning](https://github.com/M-Fatoni/Predict-Clicked-Ads-Customer-Classification-by-using-Machine-Learning)
 - Conducted detailed segmentation of customers based on demographics, interests, and behavior patterns to identify key groups most likely to engage with ads.
 - Analyzed customer behavior data to uncover patterns and trends that influence ad-clicking behavior.
 - Developed and trained various machine learning models including Logistic Regression, Decision Trees, Random Forest, Ada Boost, Naive Bayes, SVM, and K-Nearest Neighbors to predict ad clicks.
