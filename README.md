@@ -44,7 +44,14 @@ I'm Muhammad Fatoni! I'm aspiring to become a data professional, and I'm all abo
 - Developed and trained various machine learning models including Logistic Regression, Decision Trees, Random Forest, Ada Boost, Naive Bayes, SVM, and K-Nearest Neighbors to predict ad clicks.
 - Provided data-driven recommendations to optimize ad targeting strategies based on model insights.
 - Simulated the impact of different ad targeting strategies to predict potential outcomes and ROI.
+
+  ### 🙂 [Improving Employee Retention by Predicting Employee Attrition Using Machine Learning ](https://github.com/M-Fatoni/Improving-Employee-Retention-by-Predicting-Employee-Attrition-Using-Machine-Learning)
+- Identify and analyze the key factors contributing to employee attrition.
+- Develop a predictive model to identify employees who are likely to leave the organization.
+- Conducted detailed analysis to identify the key factors influencing employee attrition, such as job satisfaction, work-life balance, and career development opportunities.
+- Analyzed employee behavior data to uncover patterns and trends that contribute to attrition.
+-  Provided data-driven recommendations to optimize retention strategies based on model insights.
     
-Feel free to connect with me for any collaboration or discussion on data-driven projects!
+Feel free to connect with me for any collaboration or discussion on data-driven projects! 
 
 [LinkedIn](https://www.linkedin.com/in/muhammad-fatoni-mfatoni/)
